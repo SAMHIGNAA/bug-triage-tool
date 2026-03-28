@@ -1,0 +1,5 @@
+id,title,priority,severity
+1,Login fails,High,Critical
+2,UI glitch,Low,Minor
+3,Payment error,High,Critical
+4,Slow response,Medium,Major
