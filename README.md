@@ -13,17 +13,21 @@ Python-based tool to analyze and classify bug data with support for filtering, l
 - Basic unit tests for core functionality
 
 ## Project Structure
+
 src/ → core logic (runner, reporter, utils)
+
 tests/ → test cases
+
 main.py → entry point
 
 ## How to Run
 Run all tests:
-python main.py
+python main.py,
+
 Run specific test:
 python main.py --filter login
 
 ## Example Use Case
 - Analyze incoming bug data  
 - Identify critical issues quickly  
-- Generate reports for debugging and tracking  
+- Generate reports for debugging and tracking.
