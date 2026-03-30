@@ -1,0 +1,6 @@
+[
+    {"id": 1, "title": "Login fails", "priority": "High", "severity": "Critical"},
+    {"id": 2, "title": "UI glitch", "priority": "Low", "severity": "Minor"},
+    {"id": 3, "title": "Payment error", "priority": "High", "severity": "Critical"},
+    {"id": 4, "title": "Slow response", "priority": "Medium", "severity": "Major"}
+  ]
